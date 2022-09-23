@@ -1,6 +1,7 @@
 ## Alex Zhang's Page
 `print("Hey there!")`
 > Hey there!
+
 I'm a student at [**UC San Diego**](https://www.ucsd.edu/) studing **Computer Engineering** and minoring in **mathematics**.
 ![UCSD](https://polisci.ucsd.edu/_images/210115-Geisel-135DSC_7396-UCSanDiego-ErikJepsen_1.jpeg)
 
@@ -18,4 +19,4 @@ I'm a student at [**UC San Diego**](https://www.ucsd.edu/) studing **Computer En
 
 ### To do:
 - [x] Read through this page
-- [] [Check out the README for this project](./README.md)
+- [ ] [Check out the README for this project](./README.md)
