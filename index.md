@@ -18,5 +18,5 @@ I'm a student at [**UC San Diego**](https://www.ucsd.edu/) studing **Computer En
 - LIGN 17
 
 ### To do:
-- [x] Read through this page
-- [ ] [Check out the README for this project](./README.md)
+[x] Read through this page
+[ ] [Check out the README for this project](./README.md)
